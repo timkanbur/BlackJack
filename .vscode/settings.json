@@ -1,6 +1,5 @@
 {
     "java.project.sourcePaths": [
-        "BlackJack/src",
         "src"
     ]
 }
