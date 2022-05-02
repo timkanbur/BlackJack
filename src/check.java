@@ -1,7 +1,3 @@
-package Blackjack;
-
-import java.util.ArrayList;
-
 public class check {
     public int playerscore = 0;
     public int dealerscore = 0;
